@@ -1,4 +1,4 @@
-# word_writer_2
+# Word Writer 2
 
 A new Flutter project.
 
@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 To download first version of Text-Writer head-over to "Releases" section on the right side of the screen:
 
-![Releases-photo](Capture.PNG)
+![Releases-photo](Capture.png)
