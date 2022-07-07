@@ -39,7 +39,7 @@ Note it down...
 
 :)
 
-![App screenshot](assets/readme/Capture2.PNG)
+![App screenshot](assets/readme/Capture2.png)
 
 ### Warning
 
