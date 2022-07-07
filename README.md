@@ -1,6 +1,6 @@
 # Word Writer 1
 
-Word Writer is a simple light .txt/ plain text editor.
+Word Writer is a simple light `.txt`/ plain text editor.
 
 ## Getting Started
 
