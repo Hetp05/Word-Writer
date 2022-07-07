@@ -23,7 +23,7 @@ To download first version of Text-Writer.
 
 Head-over to "Releases" section on the right side of the screen:
 
-![Releases-photo](Capture.png)
+![Releases-photo](assets/readme/Capture.png)
 
 ### Step 2
 
@@ -32,6 +32,14 @@ And dowload .exe at bottone "Assets" Section.
 Or just simply go to this [link to get .exe file](https://github.com/Hetp05/Word-Writer/releases/download/text-editor/text-writer.exe).
 
 Then Down exe at normally.
+
+### Step 3
+
+Note it down...
+
+:)
+
+![App screenshot](assets/readme/Capture2.PNG)
 
 ### Warning
 
