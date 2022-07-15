@@ -1,23 +1,19 @@
-# Word Writer 1
+# Word Writer 1.5
+
+> **Warning**
+> This project might be perminatly closed, sorry
 
 Word Writer is a simple light `.txt`/ plain text editor.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Download the .exe file as shown in the steps below.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And start writing your srcipts and stuff.
 
 ## User Guide
 
-To download first version of Text-Writer.
+To download second and final version of Text-Writer.
 
 ### Step 1
 
@@ -39,7 +35,7 @@ Note it down...
 
 :)
 
-![App screenshot](assets/readme/Capture2.png)
+![App screenshot](assets/readme/Capture3.PNG)
 
 ### Warning
 
